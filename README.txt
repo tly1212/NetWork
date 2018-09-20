@@ -1,0 +1,1 @@
+This project simulated a TCP connnection and data transferring between a client and a server. 
